@@ -1,2 +1,5 @@
-# dockerTest
-try docker hub
+# exercism Dockerfile. 
+include below
+- Bash
+- C#
+- Java
