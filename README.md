@@ -1,5 +1,5 @@
 # Exercism Dockerfile. 
-include following developement environment
+include following development environment
 - Bash
 - C#
 - Java
