@@ -1,4 +1,4 @@
-# exercism Dockerfile. 
+# Exercism Dockerfile. 
 include following developement environment
 - Bash
 - C#
