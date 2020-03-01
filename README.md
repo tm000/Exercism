@@ -3,6 +3,7 @@ include following development environment
 - Bash
 - C#
 - Java
+- Kotlin
 
 First you must configure exercism token like below.
 ```
